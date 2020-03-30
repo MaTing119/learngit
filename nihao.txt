@@ -1,1 +1,2 @@
-hi,i am a lucky girl.
+git is a version control system
+git is free software
